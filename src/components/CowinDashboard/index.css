@@ -1,0 +1,50 @@
+/* Write your CSS here */
+.coWin-app-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 100vh;
+  background-color: #161625;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  font-family: 'roboto';
+}
+.logo-and-co-win-in-india-country {
+  display: flex;
+  flex-direction: column;
+  width: 80%;
+}
+.logo-co-win-cart {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.website-logo {
+  width: 60px;
+  margin-right: 20px;
+}
+.co-win-logo-title {
+  font-size: 28px;
+  font-weight: 800;
+  color: #2cc6c6;
+}
+.vaccination-in-india {
+  font-size: 36px;
+  font-weight: 600;
+  color: #cbd5e1;
+}
+.failure-image-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.failure-image {
+  width: 400px;
+  margin-top: 40px;
+}
+.something-wrong {
+  font-size: 26px;
+  font-weight: 600;
+  color: #ffffff;
+}

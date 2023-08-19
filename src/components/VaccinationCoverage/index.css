@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.barChart-container {
+  width: 80%;
+  background-color: #1c1c2b;
+  border-radius: 18px;
+  padding: 16px;
+  margin-bottom: 21px;
+}
+.coverage {
+  font-size: 32px;
+  font-weight: 500;
+  color: #ffffff;
+}
